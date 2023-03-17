@@ -1,9 +1,1 @@
-{
-    "version": 3,
-    "mappings": "AAAA,0DAA0D",
-    "sources": [
-        "../0-debug_log.scss"
-    ],
-    "names": [],
-    "file": "0-debug_log.css"
-}
+{"version":3,"sourceRoot":"","sources":["../0-debug_log.scss"],"names":[],"mappings":"AAAA","file":"0-debug_log.css"}

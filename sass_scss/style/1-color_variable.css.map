@@ -1,9 +1,1 @@
-{
-    "version": 3,
-    "mappings": "AAAA,mDAAmD;AAGnD,AAAA,IAAI,CAAC;EACH,KAAK,EAHM,OAAO;CAInB;;AAED,AAAA,CAAC,CAAA;EACC,KAAK,EAPM,OAAO;CAQnB",
-    "sources": [
-        "../1-color_variable.scss"
-    ],
-    "names": [],
-    "file": "1-color_variable.css"
-}
+{"version":3,"sourceRoot":"","sources":["../1-color_variable.scss"],"names":[],"mappings":"AAAA;AAGA;EACE,OAHW;;;AAMb;EACE,OAPW","file":"1-color_variable.css"}
