@@ -1,9 +1,8 @@
-$color_1: #FF0000;
-$color_2: #00FF00;
-
+$color-0: #FF0000;
+$color-1: #00FF00;
 button {
-	color: $color_1;
-	&:hover {
-		color: $color_2;
-	}
+  color: $color-0;
+  &:hover {
+    color: $color-1;
+  }
 }
